@@ -1,0 +1,8 @@
+INFO  2015-11-29 14:12:07,688 [main] FactoryTests.FactoryTest:pageFactTest(27): Logging in
+INFO  2015-11-29 14:12:07,716 [main] FactoryTests.FactoryTest:pageFactTest(30): Entering user
+INFO  2015-11-29 14:12:08,124 [main] FactoryTests.FactoryTest:pageFactTest(32): entering pass
+INFO  2015-11-29 14:12:16,366 [main] FactoryTests.FactoryTest:pageFactTest(34): counting email
+INFO  2015-11-29 14:12:20,781 [main] FactoryTests.FactoryTest:pageFactTest(27): Logging in
+INFO  2015-11-29 14:12:20,784 [main] FactoryTests.FactoryTest:pageFactTest(30): Entering user
+INFO  2015-11-29 14:12:22,697 [main] FactoryTests.FactoryTest:pageFactTest(32): entering pass
+INFO  2015-11-29 14:12:29,858 [main] FactoryTests.FactoryTest:pageFactTest(34): counting email
